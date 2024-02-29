@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+<properties>
+<entry key="eventID">1111957</entry>
+<entry key="eventType">0</entry>
+<entry key="nodeID">314273</entry>
+<entry key="nodeType">Product</entry>
+<entry key="eventCreationTime">2024-02-29 13:09:51.0</entry>
+<entry key="eventRevision">0.2</entry>
+<entry key="messageCreationTime">2024-02-29 13:11:29.801</entry>
+</properties>
+-->
+<!-- Configuration:
+<STEP-ProductInformation ResolveInlineRefs="true" FollowOverrideSubProducts="true">
+<Entities ExportSize="Minimum">
+<Entity>
+<Name/><AttributeLink/><ClassificationCrossReference/><Entity/>
+<ProductCrossReference/><AssetCrossReference/><EntityCrossReference/><ContextCrossReference/><Values/></Entity></Entities>
+<Products ExportSize="Minimum">
+<Product>
+<Name/><AttributeLink/><DataContainerTypeLink/><ClassificationReference/><Product/>
+<ProductCrossReference/><AssetCrossReference/><EntityCrossReference/><ClassificationCrossReference/><Values/><OverrideSubProduct/></Product></Products>
+</STEP-ProductInformation>
+
+Export from AGRAVIS-1302_001
+Classifications All
+Products "314273"
+Assets All
+
+Exported by domain exporter.
+-->
+<STEP-ProductInformation ExportTime="2024-02-29 13:11:29" ExportContext="Context1" ContextID="Context1" WorkspaceID="Approved" UseContextLocale="false">
+
+  <Products>
+    <Product ID="314273" UserTypeID="draj_sku" ParentID="314272" Changed="true">
+      <Name Changed="true">AGRAVIS-1302_001</Name>
+    </Product>
+  </Products>
+</STEP-ProductInformation>
